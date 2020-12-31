@@ -8,7 +8,7 @@ public class Fridge extends Room {
         super(name, size);
         this.location = location;
         this.level=level;
-
+//take some notes
     }
 
     @Override
